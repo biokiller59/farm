@@ -101,7 +101,7 @@ local KeySystemData = {
     },
     Service = "redexecutor",
     SilentMode = false,
-    DiscordInvite = "uerd",
+    DiscordInvite = "KDnAKkfn",
     WebsiteURL = "https://yourwebsite.com/",
     FileName = "redexecutor/key.txt"
 }
